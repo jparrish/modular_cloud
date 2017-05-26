@@ -1,1 +1,5 @@
-modular_cloud
+To run:
+
+```
+go test -v
+```
